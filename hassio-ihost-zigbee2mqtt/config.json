@@ -85,5 +85,4 @@
     "force_onboarding": "bool?"
   },
 "version": "1.42.0",
-"image": "ghcr.io/zigbee2mqtt/zigbee2mqtt"
 }
