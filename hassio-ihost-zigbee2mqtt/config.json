@@ -85,5 +85,6 @@
     "watchdog": "str?",
     "force_onboarding": "bool?"
   },
-  "image": "ghcr.io/zigbee2mqtt/zigbee2mqtt"
+"version": "1.0.0",
+"image": "ghcr.io/zigbee2mqtt/zigbee2mqtt
 }
