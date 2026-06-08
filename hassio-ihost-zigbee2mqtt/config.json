@@ -1,6 +1,5 @@
 {
   "name": "Zigbee2MQTT garage",
-  "version": "2.6.3-1",
   "slug": "zigbee2mqtt-garage",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "breaking_versions": [
@@ -86,5 +85,5 @@
     "force_onboarding": "bool?"
   },
 "version": "1.0.0",
-"image": "ghcr.io/zigbee2mqtt/zigbee2mqtt
+"image": "ghcr.io/zigbee2mqtt/zigbee2mqtt"
 }
