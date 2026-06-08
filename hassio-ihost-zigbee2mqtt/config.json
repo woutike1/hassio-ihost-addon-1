@@ -13,9 +13,9 @@
   "services": [
     "mqtt:need"
   ],
-  "hassio_api": true,
   "arch": [
-    "armv7"
+  "armv7",
+  "aarch64"
   ],
   "boot": "auto",
   "init": false,
