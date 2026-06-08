@@ -1,7 +1,7 @@
 {
-  "name": "Zigbee2MQTT #2",
+  "name": "Zigbee2MQTT garage",
   "version": "2.6.3-1",
-  "slug": "zigbee2mqtt-2",
+  "slug": "zigbee2mqtt-garage",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "breaking_versions": [
     "2.0.0-1"
